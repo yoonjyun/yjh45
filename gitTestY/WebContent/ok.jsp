@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-회원등록페이지
+ok
 </body>
 </html>

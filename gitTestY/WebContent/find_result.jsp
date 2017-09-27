@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>git 형상관리</title>
+<title>find result</title>
 </head>
 <body>
-git 형상관리 테스트 <br><br>
-와 재밌다!!!!!!!<br>
-테스트2
+find result
 </body>
 </html>
